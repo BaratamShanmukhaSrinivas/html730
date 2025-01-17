@@ -8,8 +8,6 @@ we have
 By default, every time an event triggers, it passes event object to callback function
 object have many properties such as target ,
 it contains source element
-
-
   ii. keyboard events: keyboard events are triggered by keyboard actions
      keypress: triggered by pressing the key
   iii. form events: form events are triggered by forms/input actions
